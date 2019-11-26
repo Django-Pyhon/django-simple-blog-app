@@ -3,7 +3,7 @@
 ```
 mkdir tutorial
 cd tutorial
-git clone git@github.com:SamuliNatri/django-simple-blog-app-python-tutorial.git .
+git clone git@github.com:SamuliNatri/django-simple-blog-app.git .
 python3 -m venv venv
 source venv/bin/activate
 pip install django
